@@ -10,4 +10,4 @@ RUN mkdir /opt/shared
 EXPOSE 8083
 EXPOSE 8086
 
-CMD ["/etc/init.d/influxd", "start"]
+CMD ["/opt/influxdb/influxd", "start"]
