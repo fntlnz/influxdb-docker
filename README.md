@@ -22,7 +22,3 @@ docker run --rm gianarb/influxdb -v
 ```bash
 make build
 ```
-
-## TAGs
-* [0.9](https://github.com/gianarb/influxdb-docker/tree/0.9)
-* **latest**
